@@ -1,0 +1,21 @@
+item_title: <h1 class="D_bg D_rC M_mt D_qk M_lh D_rI M_my D_rK M_m_ D_rN" data-testid="new-listing-details-page-desktop-text-title">DELL 戴爾OptiPlex 3060  3070 立式機型與小機型 ( i5-8500 9500 3.00GHz/ 16GB RAM / 256GB SSD )商務文書【HDMI輸出｜三個月保養】#電腦/桌上電腦/台機/細機/主機/袖珍型/砌機/Desktop/SFF/Tiny/PC</h1>
+
+item_url: 
+
+seller: <div class="D_Xn" data-testid="new-listing-details-page-desktop-div-seller-contact-header">
+
+category: <ul aria-hidden="false" class="D_bs" data-testid="new-listing-details-page-desktop-breadcrumbs" typeof="BreadcrumbList" vocab="https://schema.org/">
+
+price: <div class="" id="FieldSetField-Container-field_price">
+
+overview: <div class="" id="FieldSetField-Container-field_sticky_info"
+
+condition: <div class="D_alN" id="FieldSetField-Container-field_condition_with_action"> +
+<div class="D_alN" id="FieldSetField-Container-field_condition_description">
+
+description: <div class="D_alN" id="FieldSetField-Container-field_description_info">
+*********identify if there is 'button'. If yes, click to "read more" to show full description*********
+
+meet-up: <div class="D_alN" id="FieldSetField-Container-field_meetups_viewer"
+
+pic: <img alt="" class="D_yL M_oE D_yI M_oA D_aSg M_aAN" src="https://media.karousell.com/media/photos/products/2023/5/12/dell_1683874906_4e359596_progressive" title="">
